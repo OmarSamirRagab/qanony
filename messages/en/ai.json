@@ -1,0 +1,55 @@
+{
+  "assistant": {
+    "metaTitle": "AI legal assistant",
+    "title": "AI legal assistant",
+    "subtitle": "Ask about a legal topic in plain language, or get help preparing your documents and questions before a consultation.",
+    "disclaimer": "The assistant is an AI tool, not a lawyer. It gives general information that may be inaccurate and is not legal advice. Consult a verified lawyer before acting.",
+    "placeholder": "e.g. What are the general steps to file for alimony?",
+    "send": "Ask",
+    "loginRequired": "Sign in to use the AI assistant.",
+    "login": "Sign in",
+    "unavailable": "The AI assistant is not configured on the platform right now.",
+    "refused": "The assistant can't help with this request. Please consult a specialist lawyer.",
+    "truncated": "The answer is long and may be incomplete.",
+    "privacyNote": "Don't include sensitive personal data. Your questions are not used to train models.",
+    "suggestionsTitle": "Examples",
+    "suggestion1": "In general, how does khula differ from divorce for harm?",
+    "suggestion2": "What documents do I need before a consultation about a rental contract?",
+    "suggestion3": "How do I prepare for a consultation about being dismissed from work?",
+    "recommended": "Practice areas that may fit your issue",
+    "findLawyers": "Find a lawyer"
+  },
+  "tools": {
+    "title": "AI tools",
+    "subtitle": "Summarise documents, extract clauses, compare and draft. Every output is a draft for your review.",
+    "locked": "AI tools are available on the Professional plan.",
+    "unavailable": "AI tools are not configured on the platform right now.",
+    "task": "Task",
+    "tasks": {
+      "summarize": "Summarise a document",
+      "clauses": "Extract clauses",
+      "compare": "Compare two documents",
+      "draft": "Draft a document",
+      "meeting": "Meeting summary",
+      "timeline": "Matter timeline summary"
+    },
+    "documents": "Documents",
+    "documentsHint": "Only documents whose owners explicitly allowed AI processing appear here.",
+    "noDocuments": "No documents are allowed for AI processing. Enable it from the document menu after the owner consents.",
+    "matter": "Matter",
+    "selectMatter": "Select a matter",
+    "instructions": "Additional instructions",
+    "instructionsPlaceholder": "e.g. Draft a notice demanding unpaid rent within 15 days…",
+    "run": "Run",
+    "result": "Result",
+    "copy": "Copy",
+    "reviewWarning": "AI-generated draft — must be professionally reviewed before sharing with any client.",
+    "blocked": {
+      "document_ai_not_allowed": "The document owner hasn't allowed AI processing for it.",
+      "no_owner_consent": "The document owner hasn't given general consent to AI processing.",
+      "unsupported_type": "Unsupported file type. Supported: PDF, text, images."
+    },
+    "allowAi": "Allow AI processing",
+    "disallowAi": "Disallow AI processing"
+  }
+}

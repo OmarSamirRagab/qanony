@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "brand": "Qanony",
+    "title": "Qanony — Book a consultation with a verified lawyer in Egypt",
+    "description": "Find verified lawyers across Egypt by practice area and governorate, compare experience and fees, and book video, voice or in-person consultations with secure payment."
+  },
+  "hero": {
+    "eyebrow": "Verified lawyers · Confirmed appointments · Full confidentiality",
+    "title": "Your legal consultation starts here",
+    "titleAccent": "with confidence",
+    "subtitle": "Compare verified lawyers in every governorate and book a video, phone or in-person consultation in minutes — with secure payment, messaging and protected documents.",
+    "searchLabel": "What are you looking for?",
+    "searchPlaceholder": "Lawyer name or type of case…",
+    "specialization": "Practice area",
+    "anySpecialization": "All practice areas",
+    "governorate": "Governorate",
+    "anyGovernorate": "All governorates",
+    "consultationType": "Consultation type",
+    "anyType": "Any type",
+    "onlineOnly": "Remote consultations only",
+    "search": "Find a lawyer",
+    "popular": "Popular:",
+    "stat1": "Every lawyer's bar registration checked by hand",
+    "stat2": "Secure online payment with a receipt for every transaction",
+    "stat3": "Encrypted, permission-protected messages and documents"
+  },
+  "categories": {
+    "title": "Practice areas for every need",
+    "subtitle": "From family and inheritance matters to company formation and intellectual property.",
+    "viewAll": "All practice areas"
+  },
+  "featured": {
+    "title": "Verified lawyers ready to help",
+    "subtitle": "Ranked by verified reviews and activity — never by advertising.",
+    "viewAll": "Browse all lawyers",
+    "empty": "Lawyers will appear here once their verification is complete and their profiles are published.",
+    "sponsored": "Sponsored placement"
+  },
+  "firms": {
+    "title": "Full-service law firms",
+    "subtitle": "Specialist teams for complex matters and businesses.",
+    "viewAll": "All firms",
+    "empty": "No published firms yet."
+  },
+  "how": {
+    "title": "How it works",
+    "subtitle": "Four simple steps from search to advice.",
+    "step1Title": "Search and compare",
+    "step1Body": "Filter lawyers by practice area, governorate, fee and earliest availability, and read reviews from real clients.",
+    "step2Title": "Book your slot",
+    "step2Body": "Choose the consultation type and time, summarise your issue and attach documents securely.",
+    "step3Title": "Pay securely",
+    "step3Body": "Pay through a licensed gateway. Bookings are only confirmed once our servers verify the payment.",
+    "step4Title": "Get advice",
+    "step4Body": "Join at the scheduled time, then follow notes, documents and your matter from your dashboard."
+  },
+  "trust": {
+    "title": "Trust is a process, not a slogan",
+    "subtitle": "We built the platform to protect lawyer–client confidentiality.",
+    "verificationTitle": "Real verification",
+    "verificationBody": "We review each lawyer's bar registration and professional documents before granting the verified badge. Lawyers cannot add it themselves.",
+    "privacyTitle": "Private by default",
+    "privacyBody": "Only the parties and people you authorise can access your messages and documents — not even support staff can open them.",
+    "paymentTitle": "Traceable payments",
+    "paymentBody": "Every transaction is recorded in a double-entry ledger, with a receipt, an invoice and a clear refund policy.",
+    "reviewsTitle": "Verified reviews only",
+    "reviewsBody": "Reviews are only possible after a completed consultation or service, and we hold back any review that reveals confidential details."
+  },
+  "testimonials": {
+    "title": "What clients say",
+    "subtitle": "Published reviews from clients who completed consultations on the platform.",
+    "verifiedClient": "Verified client",
+    "empty": "Verified client reviews will appear here after the first consultations are completed."
+  },
+  "articles": {
+    "title": "Plain-language legal guides",
+    "subtitle": "General information to help you understand your next steps.",
+    "viewAll": "All guides",
+    "readMore": "Read more",
+    "minutesRead": "{count} min read"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "viewAll": "All questions"
+  },
+  "cta": {
+    "title": "Are you a lawyer or law firm?",
+    "subtitle": "Join Qanony to reach new clients and manage appointments, matters, documents and invoices in one place.",
+    "lawyer": "Register as a lawyer",
+    "firm": "Register your firm",
+    "clientTitle": "Need legal advice now?",
+    "clientSubtitle": "Find the right lawyer and book the earliest available slot.",
+    "client": "Start searching"
+  }
+}
